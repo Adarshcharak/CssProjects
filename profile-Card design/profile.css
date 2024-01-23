@@ -27,7 +27,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-image: url(../images/profile-pic\ copy.png);
+    background-image: url(../images/profile.png);
     background-size: cover;
     border: 5px solid #2D3250;
     animation: spinWheel 2.5s linear 1;
